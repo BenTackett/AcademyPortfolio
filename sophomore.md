@@ -48,3 +48,15 @@ In biology, we did a weeklong fetal pig dissection lab, where we autopsied a fet
 Our case
 --------
 Our group chose Cleopatra as the victim, and Iullus Antonius as the assailant. His motivation for killing Cleopatra was that she had stolen his father from him, and disgraced his family name. Our main pieces of evidence were some fingerprints, a bloodstain, Cleopatra's stabbed heart (actually the pig heart), the suspect's knife, and witness statements.
+
+Beneath The Surface
+===================
+
+In Beneath The Surface, (BTS) were tasked with building a robotic submarine to compete in a submarine competition. We also had to do some secondary tasks such as a trailer for our spy firm.
+
+Submarine
+---------
+
+Our submarine was designed to capture the lollipops from the shallow end of the pool. In order to achieve these goals, it had bilateral front facing motors for steering, and a hook at the bottom for grabbing the gamepiece.
+
+This design failed miserably, because it flipped over in the water, and the motors produced less thrust while going forwards than backwards (because the motors were mounted backwards), so it failed to earn any points throughout the course of the game.
