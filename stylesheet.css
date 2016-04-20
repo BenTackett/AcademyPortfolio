@@ -47,6 +47,7 @@ body {
     background: #a33232;
     list-style: none;
     box-sizing: border-box;
+    z-index: 100;
 }
 .navigation-list li {
     float: left;
@@ -259,8 +260,52 @@ body.pink .navigation-list li>a.selected, body.pink .navigation-list li>a:hover 
 }
 .md p {
     color: #323232;
+    position: relative;
 }
 .md img {
     max-width: 80%;
     margin-left: 10%;
+}
+
+.md .hover-hidden {
+    position: relative;
+    display: block;
+    -webkit-filter: blur(24px);
+    filter: blur(24px);
+    -webkit-transition: filter 0.1s ease, -webkit-filter 0.1s ease;
+    -moz-transition: filter 0.1s ease, -webkit-filter 0.1s ease;
+    -o-transition: filter 0.1s ease, -webkit-filter 0.1s ease;
+    transition: filter 0.1s ease, -webkit-filter 0.1s ease;
+}
+.md .hover-hidden+.warning-text {
+    font-size: 40px;
+    color: #fff;
+    text-shadow: 3px 2px 1px rgba(0,0,0,0.2);
+    position: absolute;
+    z-index: 10;
+    display: block;
+    top: 40%;v
+    left: 0;
+    right: 0;
+    text-align: center;
+    opacity: 1;
+    -webkit-transition: opacity 0.1s ease;
+    -moz-transition: opacity 0.1s ease;
+    -o-transition: opacity 0.1s ease;
+    transition: opacity 0.1s ease;
+}
+.md .hover-hidden:hover {
+    -webkit-filter: blur(0);
+    filter: blur(0);
+}
+.md .hover-hidden:hover+.warning-text {
+    opacity: 0;
+}
+
+.md iframe {
+    max-width: 100%;
+    width: 800px;
+    height: 500px;
+    display: block;
+    position: relative;
 }
