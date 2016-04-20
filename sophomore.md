@@ -52,7 +52,7 @@ Our group chose Cleopatra as the victim, and Iullus Antonius as the assailant. H
 Beneath The Surface
 ===================
 
-In Beneath The Surface, (BTS) were tasked with building a robotic submarine to compete in a submarine competition. We also had to do some secondary tasks such as a trailer for our spy firm.
+In Beneath The Surface, (BTS) we were tasked with building a robotic submarine to compete in a submarine competition. We also had to do some secondary tasks such as a trailer for our spy firm.
 
 Submarine
 ---------
@@ -60,3 +60,53 @@ Submarine
 Our submarine was designed to capture the lollipops from the shallow end of the pool. In order to achieve these goals, it had bilateral front facing motors for steering, and a hook at the bottom for grabbing the gamepiece.
 
 This design failed miserably, because it flipped over in the water, and the motors produced less thrust while going forwards than backwards (because the motors were mounted backwards), so it failed to earn any points throughout the course of the game.
+
+Quantum Leap
+============
+
+In Quantum Leap, (QL) we were tasked with creating a video game, to display at a con-like event at the end of the project.
+
+Game Subject
+------------
+
+The game was required to relate to a few different time periods from human history, with the assumption that each of the time periods would be time traveled to. Instead of time travel though, we decided to stick all of the time periods together in an alien museum so we could avoid time travel altogether, but still have the different time periods.
+
+We ended up going with 4 time periods, one for each group member:
+
+ - The Viking Age (700s - 1000s) - Sophia
+ - The Mongolian Empire (1206-1368) - Me
+ - The Black Plague (1340s - 1350s) - Andrew
+ - New Orleans Slave Trade (late 1700s) - Caden
+
+The goal of the game was to rescue the people from each of these time periods, and lead them out of the museum, while fighting enemies including museum security, and innocent museum-goers. The game was co-op, with up to 4 people being able to play together using XBox controllers.
+
+Charcters
+---------
+
+We chose to have 4 characters in our, one from each time period:
+
+ - Viking Warrior
+ - Mongol Cavalier
+ - Plague Doctor
+ - Voodoo Master
+
+With Andrew, Caden, and Sophia drawing the characters, it took about 4 weeks to finish their animations and concepts.
+
+You can see the characters in our digital art book:
+
+[insert-digital-artbook-here]
+
+Programming
+-----------
+
+Our game was written from scratch, and was compatible with Windows, MacOS, and Linux. Because of delays and problems encountered during programming, we didn't get everything we hoped for in the final demo showcased at Adacadon, but we were able to showcase the combat mechanics, which were the most important part of the demo.
+
+Social Media
+------------
+
+We ran a twitter account here: [twitter.com/poisoneddrums](https://www.twitter.com/poisoneddrums)
+
+Acadacon
+--------
+
+Once Acadacon came around, we had a booth with our digital artbook on display, and a Mac with our game running. Instead of relying on an extravagant booth, we used our actual game to showcase. Almost all the people who played had positive reactions, and one person even said it was the best game there.
