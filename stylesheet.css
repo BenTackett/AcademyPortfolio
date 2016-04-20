@@ -284,7 +284,7 @@ body.pink .navigation-list li>a.selected, body.pink .navigation-list li>a:hover 
     position: absolute;
     z-index: 10;
     display: block;
-    top: 40%;v
+    top: 40%;
     left: 0;
     right: 0;
     text-align: center;
