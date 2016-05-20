@@ -110,3 +110,26 @@ Acadacon
 --------
 
 Once Acadacon came around, we had a booth with our digital artbook on display, and a Mac with our game running. Instead of relying on an extravagant booth, we used our actual game to showcase. Almost all the people who played had positive reactions, and one person even said it was the best game there.
+
+Project Y
+=========
+
+Project Y was the last project of the year, so, to make it special, the facilitators decided that this project would be much more open-ended than other projects.
+
+In this project, we were supposed to develop a concept for a product that helped solve a world problem. Everything else was left up to our group to decide.
+
+Our Product
+-----------
+
+My group chose to develop a device that tracks your electricity usage, and tells you how much money you could save if you switched to a renewable energy source, such as rooftop solar panels.
+
+It consists of a multimeter, a computer (raspberry pi), and a wireless router. The multimeter measures how much electricity is used by reading the main electricity inlet, and recording voltage and amperage. The data is transmitted using the router to a recipient computer that can store long-term data.
+
+We were never able to construct the full prototype due to technical difficulties with the raspberry pi.
+
+The Problems
+------------
+
+Our device was supposed to help solve the problem of the adoption of sustainable energy. The main reason fossil fuel based power generation is still dominant today is because renewable energy is not yet cheaper or more profitable than non-renewable energies.
+
+![Infographic](images/py-infographic.png)
